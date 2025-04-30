@@ -64,39 +64,10 @@ cd MotivationQuotesApp-Kotlin
 
 ---
 
-## 🚀 Getting Started (For Developers)
-
-To run this project locally on your machine:
-
-```bash
-git clone https://github.com/aayush61203/MotivationQuotesApp-Kotlin.git
-cd MotivationQuotesApp-Kotlin
-```
-
-1. Open the project in Android Studio  
-2. Let Gradle sync the dependencies  
-3. Connect your device or use an emulator  
-4. Press **Run ▶️** to launch the app
-
----
-
 ## 💡 API Info
 
 - The app fetches quotes from a public REST API (can be changed in the source code).
 - Make sure you have a stable internet connection while using the app.
-
----
-
-## 🙌 Contributing
-
-Contributions are welcome! 🧠  
-Want to fix a bug or add a feature? Follow these steps:
-
-- Fork the repo  
-- Create a new branch (`git checkout -b feature-name`)  
-- Commit changes (`git commit -m "Added new feature"`)  
-- Push to GitHub (`git push origin feature-name`)  
-- Open a pull request
 
 ---
 
