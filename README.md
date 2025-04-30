@@ -12,7 +12,7 @@
 
 🎉 Try the app now by downloading the latest APK:
 
-[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://your-apk-link.com)
+[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/aayush61203/MotivationQuotesApp-Kotlin/blob/7bb664aa83a32601bf76f273febff77245e0f3fc/app.apk)
 
 
 ---
