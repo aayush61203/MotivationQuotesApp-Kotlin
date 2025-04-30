@@ -1,0 +1,16 @@
+<!-- res/layout/activity_splash.xml -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ADD8E6">
+
+    <androidx.constraintlayout.utils.widget.ImageFilterView
+        android:id="@+id/logoImageView"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/logo"
+        android:layout_centerInParent="true"/>
+
+    <!-- Add any other customization (e.g., app name, slogan, etc.) -->
+
+</RelativeLayout>
